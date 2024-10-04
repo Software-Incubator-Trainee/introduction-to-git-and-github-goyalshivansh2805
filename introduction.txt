@@ -4,3 +4,14 @@ My name is Shivansh Goyal, and i am in Second year pursuing Bachelor of technolo
 
 I have a basic understanding of MERN ( MongoDB,Express.js,React.js,Node.js) Stack and tailwindCSS to build FUll stack web applications.
 I also like to Do DSA as a side hobby to develop my problem solving skills and to sharpen my mind.
+
+My skills:
+    In my opinion, my problem solving skills are good. They help me tackle problem effectively and also help me improve.
+    I also have basic knowledge of C++ programming and STL.
+
+My hobbies:
+    -Coding
+    -Chess
+    -Solving Rubik's cube
+    -Listening Music
+    
