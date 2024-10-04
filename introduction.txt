@@ -1,0 +1,6 @@
+Hello Everyone
+
+My name is Shivansh Goyal, and i am in Second year pursuing Bachelor of technology in Computer Science and engineering at Ajay kumar garg engineering college,Ghaziabad.
+
+I have a basic understanding of MERN ( MongoDB,Express.js,React.js,Node.js) Stack and tailwindCSS to build FUll stack web applications.
+I also like to Do DSA as a side hobby to develop my problem solving skills and to sharpen my mind.
